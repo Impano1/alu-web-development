@@ -1,1 +1,4 @@
-0. README and objectives!
+Barcelone Grandprix
+Readme for Web Development term 
+it Must Contain HTML And CSS 
+
